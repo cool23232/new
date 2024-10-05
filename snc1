@@ -1,5 +1,6 @@
 -- all these functions work on the executor, just needed a way to fix a few values not return on the actual test"
 
+wait(1)
 print("\n")
 
 print("UNC Environment Check")
